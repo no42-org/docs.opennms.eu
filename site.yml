@@ -3,7 +3,6 @@ runtime:
 site:
   title: The Docs @ OpenNMS
   url: https://docs.opennms.eu
-  start_page: horizon::index.adoc
 content:
   sources:
   - url: &opennms-doc-url https://github.com/no42-org/opennms.git
