@@ -7,10 +7,7 @@ content:
   sources:
   - url: &opennms-doc-url https://github.com/no42-org/opennms.git
     branches: &opennms-doc-branches master
-    start_path: opennms-doc/releasenotes
-  - url: *opennms-doc-url
-    branches: *opennms-doc-branches
-    start_path: opennms-doc/guide-install
+    start_path: opennms-doc
 asciidoc:
   attributes:
     experimental: ''
