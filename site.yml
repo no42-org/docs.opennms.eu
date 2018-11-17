@@ -5,9 +5,9 @@ site:
   url: https://docs.opennms.eu
 content:
   sources:
-  - url: &opennms-doc-url https://github.com/no42-org/opennms.git
-    branches: &opennms-doc-branches master
-    start_path: opennms-doc
+  - url: &docs-url https://github.com/no42-org/opennms.git
+    branches: &horizon-docs-branches master
+    start_path: docs
 asciidoc:
   attributes:
     experimental: ''
