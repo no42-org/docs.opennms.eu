@@ -1,0 +1,40 @@
+tiles:
+- name: 'Horizon'
+  url: 'https://docs.opennms.org/opennms/releases/index.html'
+  img: 'logos/horizon.svg'
+  txt_color: '#ffffff'
+  bg_color: '#ffffff'
+  tags: ['favorite']
+
+- name: 'Meridian'
+  url: 'https://meridian.opennms.com'
+  img: 'logos/meridian.svg'
+  bg_color: '#ffffff'
+  tags: ['favorite']
+
+- name: 'Correlation Engine OCE'
+  url: 'https://oce.opennms.eu'
+  bg_color: '#ffffff'
+  tags: ['favorite']
+
+- name: 'Newts'
+  url: 'https://github.com/OpenNMS/newts/wiki/GettingStarted'
+  img: 'logos/newts.svg'
+  bg_color: '#ffffff'
+  tags: ['favorite']
+
+- name: 'Helm'
+  url: 'https://docs.opennms.org/helm/index.html'
+  img: 'logos/helm.svg'
+  bg_color: '#ffffff'
+  tags: ['favorite']
+
+- name: 'PRIS'
+  url: 'https://pris.opennms.eu'
+  bg_color: '#ffffff'
+  tags: ['favorite']
+
+- name: 'OpenNMS.js'
+  url: 'https://docs.opennms.org/opennms-js/index.html'
+  bg_color: '#ffffff'
+  tags: ['favorite']

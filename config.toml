@@ -1,0 +1,24 @@
+baseURL = "https://docs.opennms.eu"
+languageCode = "en-us"
+title = "OpenNMS Documentation"
+theme = "slate"
+
+[ params ]
+BackgroundImages = [
+  "bg/desert.jpg",
+  "bg/ulf-view-03.jpg",
+  "bg/ulf-view-01.jpg",
+  "bg/ulf-view-02.jpg",
+  "bg/ulf-view-04.jpg",
+  "bg/ulf-view-05.jpg",
+  "bg/ulf-view-06.jpg"
+]
+BackgroundStyle = "#ffffff;"
+OpenLinksInNewWindow = true
+Favicon = "favicon.ico"
+
+# list of nav tags
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
